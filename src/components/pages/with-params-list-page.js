@@ -1,5 +1,5 @@
 import React from "react";
-import { PaginationInitContainer } from "@skolozub/react-redux-pagination-v2";
+import { PaginationInitContainer } from "@skolozub/react-redux--pagination";
 import WithParamsListContainer from "../../containers/with-params-list-container";
 
 export const WithParamsListPage = () => (

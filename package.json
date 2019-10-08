@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@skolozub/react-redux-pagination-v2": "1.0.3",
+    "@skolozub/react-redux--pagination": "0.0.5",
     "axios": "0.19.0",
     "connected-react-router": "6.5.2",
     "history": "4.10.1",

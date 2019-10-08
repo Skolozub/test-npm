@@ -35,8 +35,8 @@ class WithParamsListContainer extends Component {
 
     return (
       <>
-        <ListContainer params={params} />
         <Pagination {...{ totalPages, location, params, paramName }} />
+        <ListContainer params={params} />
       </>
     );
   };

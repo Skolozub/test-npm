@@ -9,13 +9,13 @@ export const Menu = props => (
         Документация
       </NavigationLink>
       <NavigationLink
-        to="/pagination-with-params/?some-param=505"
+        to="/with-params/?some-param=505"
         activeClassName="active"
       >
         Пагинация&nbsp;с&nbsp;учетом&nbsp;параметров
       </NavigationLink>
       <NavigationLink
-        to="/pagination-without-params/?some-param=505"
+        to="/without-params/?some-param=505"
         activeClassName="active"
       >
         Пагинация&nbsp;без&nbsp;учета&nbsp;параметров
